@@ -1,10 +1,10 @@
 let a="helo"
 
 
-console.log("hello")
+console.log("heladsdo")
 for(let i=0;i<a.length;i++){
-    console.log("abasds",a[i]);
-    console.log("changes from branch2")
-    console.log("changes from branch1 ")
+    console.log("abascosncsds",a[i]);
+    console.log("changes fconsolerom branch2")
+    console.log("changes fconsolerom branch1 ")
     log
 }
